@@ -1,1 +1,1 @@
-add description about query DISPLAY
+Add dark mode support for the settings page
