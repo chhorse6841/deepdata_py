@@ -1,1 +1,1 @@
-Implement caching for API responses
+improve read from disk by storing node data to main memory
