@@ -1,1 +1,1 @@
-minor changes, remove tables
+Update dependencies to the latest versions
