@@ -1,1 +1,1 @@
-minor changes, remove tables
+Fix typo in the user registration form
