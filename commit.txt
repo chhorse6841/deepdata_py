@@ -1,1 +1,1 @@
-remove integration of sql-parser and compiled from MAC
+improve read from disk by storing node data to main memory
