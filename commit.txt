@@ -1,1 +1,1 @@
-remove integration of sql-parser and compiled from MAC
+Refactor payment gateway integration logic
