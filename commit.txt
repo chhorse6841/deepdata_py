@@ -1,1 +1,1 @@
-Update dependencies to the latest versions
+remove integration of sql-parser and compiled from MAC
