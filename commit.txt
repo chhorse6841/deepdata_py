@@ -1,1 +1,1 @@
-remove integration of sql-parser and compiled from MAC
+Add dark mode support for the settings page
