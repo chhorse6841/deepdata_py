@@ -1,1 +1,1 @@
-add description about query DISPLAY
+Fix typo in the user registration form
