@@ -1,1 +1,1 @@
-Add unit tests for the new user profile feature
+remove integration of sql-parser and compiled from MAC
