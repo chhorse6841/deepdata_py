@@ -1,1 +1,1 @@
-cosmetic changes
+Fix typo in the user registration form
