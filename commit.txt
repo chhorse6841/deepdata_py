@@ -1,1 +1,1 @@
-minor changes, remove tables
+Implement caching for API responses
