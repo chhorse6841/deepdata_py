@@ -1,1 +1,1 @@
-Refactor payment gateway integration logic
+minor changes, remove tables
