@@ -1,1 +1,1 @@
-Implement caching for API responses
+remove integration of sql-parser and compiled from MAC
