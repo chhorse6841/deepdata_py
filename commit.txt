@@ -1,1 +1,1 @@
-Cleanup unused styles and components
+remove integration of sql-parser and compiled from MAC
