@@ -1,1 +1,1 @@
-minor changes, remove tables
+Cleanup unused styles and components
