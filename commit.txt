@@ -1,1 +1,1 @@
-add description about query DISPLAY
+remove integration of sql-parser and compiled from MAC
