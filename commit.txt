@@ -1,1 +1,1 @@
-minor changes, remove tables
+Update README with setup instructions
