@@ -1,1 +1,1 @@
-minor changes, remove tables
+add description about query DISPLAY
