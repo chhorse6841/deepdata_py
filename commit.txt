@@ -1,1 +1,1 @@
-Implement caching for API responses
+add description about query DISPLAY
