@@ -1,1 +1,1 @@
-Fix bug with image upload validation
+add description about query DISPLAY
