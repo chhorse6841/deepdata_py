@@ -1,1 +1,1 @@
-cosmetic changes
+Add dark mode support for the settings page
