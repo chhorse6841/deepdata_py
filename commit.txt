@@ -1,1 +1,1 @@
-remove integration of sql-parser and compiled from MAC
+Fix typo in the user registration form
