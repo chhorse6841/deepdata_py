@@ -1,1 +1,1 @@
-remove integration of sql-parser and compiled from MAC
+Optimize performance for loading user dashboard
