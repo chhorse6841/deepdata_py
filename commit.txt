@@ -1,1 +1,1 @@
-add description about query DISPLAY
+Update dependencies to the latest versions
