@@ -1,1 +1,1 @@
-improve read from disk by storing node data to main memory
+Update README with setup instructions
