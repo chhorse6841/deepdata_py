@@ -1,1 +1,1 @@
-Fix bug with image upload validation
+minor changes, remove tables
