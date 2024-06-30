@@ -1,5 +1,5 @@
 # Set start and end dates
-START_DATE="2024-06-31"
+START_DATE="2024-06-30"
 END_DATE="2025-02-01"
 
 commit_messages=(
