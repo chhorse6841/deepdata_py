@@ -1,1 +1,1 @@
-Optimize performance for loading user dashboard
+improve read from disk by storing node data to main memory
