@@ -1,1 +1,1 @@
-cosmetic changes
+Fix bug with image upload validation
