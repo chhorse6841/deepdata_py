@@ -1,6 +1,6 @@
 # Set start and end dates
-START_DATE="2021-01-31"
-END_DATE="2021-12-09"
+START_DATE="2024-06-31"
+END_DATE="2025-02-01"
 
 commit_messages=(
     "Fix typo in the user registration form"
@@ -13,6 +13,11 @@ commit_messages=(
     "Optimize performance for loading user dashboard"
     "Cleanup unused styles and components"
     "Update README with setup instructions"
+    "add description about query "DISPLAY""
+    "cosmetic changes"
+    "improve read from disk by storing node data to main memory"
+    "remove integration of sql-parser and compiled from MAC"
+    "minor changes, remove tables"
 )
 
 git add .
