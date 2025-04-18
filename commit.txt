@@ -1,1 +1,1 @@
-minor changes, remove tables
+Optimize performance for loading user dashboard
