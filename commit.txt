@@ -1,1 +1,1 @@
-add description about query DISPLAY
+Cleanup unused styles and components
