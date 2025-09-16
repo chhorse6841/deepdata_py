@@ -1,1 +1,1 @@
-cosmetic changes
+Update README with setup instructions
