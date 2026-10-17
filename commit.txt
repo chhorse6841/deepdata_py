@@ -1,1 +1,1 @@
-cosmetic changes
+add description about query DISPLAY
